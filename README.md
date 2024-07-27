@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arnabroy.onrender.com](https://arnabroy.onrender.com)
 
-- 📫 How to reach me **arnabrpychowdhury2002@gmail.com**
+- 📫 How to reach me **arnabroychowdhury2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
