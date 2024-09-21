@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://arnabroy.onrender.com](https://arnabroy.onrender.com)
+- 👨‍💻 All of my projects are available at [https://arnabroychowdhury.netlify.app/](https://arnabroychowdhury.netlify.app/)
 
 - 📫 How to reach me **arnabroychowdhury2002@gmail.com**
 
